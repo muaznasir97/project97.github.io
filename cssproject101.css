@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: grid;
+}
+.nav-bg-color {
+    background-color: #5090bc;
+}
+
+.hero-bg-color {
+    background-color: #5085BC;
+}
+
+.modal-bg-color {
+    background-color: #5090bc;
+}
+
+.footer-bg-color {
+    background-color: #5085BC;
+}
+
+.split {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-modal {
+    width: 20%;
+}
